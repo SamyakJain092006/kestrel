@@ -2,3 +2,4 @@ build/
 data/
 *.gz
 .cache/
+src/legacy_book/test_order_book
